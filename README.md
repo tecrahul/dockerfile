@@ -8,7 +8,7 @@ This is basic docker file example for understanding of its uses. You can simply 
 
 Now build the docker image named apacheimage. 
 
-> docker run -it apacheimage
+> docker build -t apacheimage .
 
 
 For more details visit: https://tecadmin.net/tutorial/docker/docker-dockerfile/
